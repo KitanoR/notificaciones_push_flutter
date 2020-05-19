@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770029559425",
+    "firebase_url": "https://guatecompras-a71b6.firebaseio.com",
+    "project_id": "guatecompras-a71b6",
+    "storage_bucket": "guatecompras-a71b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770029559425:android:598dbf4a31ed35b0883780",
+        "android_client_info": {
+          "package_name": "com.example.notificacion_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770029559425-0pc987qs8qe1uto5op0vs0fs59jq9u07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notificacion_push",
+            "certificate_hash": "a56f0a1747a8268ccb3ef96fb5c58e1293a15413"
+          }
+        },
+        {
+          "client_id": "770029559425-thck0163lutalbtlrcsdtur0p8in9usc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehQ6Q_2ikO5QQK8ET3vUeZuPR6jbdECk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770029559425-thck0163lutalbtlrcsdtur0p8in9usc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770029559425-u3it795n6000v8bqna4f9vu64lh5n0hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gt.guatecompras"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
